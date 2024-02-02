@@ -1,0 +1,9 @@
+/* mobile responsive start ============================================= */
+@media (min-width: 320px) and (max-width: 575.98px) {  
+    /* navbar_part_start======== */
+    .navbar .collapse ul{
+        display: flex ;
+    }
+    /* navbar_part_end======== */
+}
+/* mobile responsive end ============================================= */

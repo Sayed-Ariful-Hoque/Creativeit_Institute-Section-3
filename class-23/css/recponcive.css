@@ -1,0 +1,22 @@
+/* mobile responsive start ============================================= */
+@media (min-width: 320px) and (max-width: 575.98px) {  
+    /* navbar_part_start======== */
+    .navbar-nav {
+        margin-top: 20px;
+        flex-direction: row;
+        list-style: none;
+        flex-wrap: wrap;
+        row-gap: 30px;
+      }
+    /* navbar_part_end======== */
+    /* Banner_part_start======== */
+    .banner_part .overlay h1 {
+        padding: 30px 0 51px;
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 120%;
+        background-color: blue;
+      }
+    /* Banner_part_end======== */
+}
+/* mobile responsive end ============================================= */
